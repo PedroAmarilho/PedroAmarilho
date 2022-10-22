@@ -1,8 +1,7 @@
 ### Oi! Eu sou o Pedro Macedo! 👋
 - 🔭 Teacher Training in Science Teaching;
 - 🌱 Studying JavaScript, HTML and CSS;
-
-##
+- 😄 Pronouns: He/Him.
 
 <div align="center">
   <a href="https://github.com/PedroAmarilho">
